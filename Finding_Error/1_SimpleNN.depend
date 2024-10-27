@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1704243748 source:c:\users\chinasa\desktop\c\c projects\1_simplenn\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1704243697 c:\users\chinasa\desktop\c\c projects\1_simplenn\simple_neural_networks.h
+
+1715547101 source:c:\users\chinasa\desktop\c\c projects\finding_error\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
+1715546600 c:\users\chinasa\desktop\c\c projects\finding_error\simple_neural_networks.h
+
+1715547080 source:c:\users\chinasa\desktop\c\c projects\finding_error\simple_neural_networks.c
+	"simple_neural_networks.h"
+	<math.h>
+	<stdio.h>
+

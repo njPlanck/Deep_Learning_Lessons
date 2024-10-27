@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1706958169 source:c:\users\chinasa\desktop\c\c projects\1_simplenn\simple_neural_networks.c
+	"simple_neural_networks.h"
+
+1706952978 c:\users\chinasa\desktop\c\c projects\1_simplenn\simple_neural_networks.h
+
+1706958105 source:c:\users\chinasa\desktop\c\c projects\1_simplenn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simple_neural_networks.h"
+
